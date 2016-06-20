@@ -1,7 +1,7 @@
 # jQuery accessible tabs using ARIA
 ===========================
 
-A presentation and demo page is here: http://a11y.nicolas-hoffmann.net/tabs/ 
+This fork serves bootstrap installs, by adding active class to the tab and to the tab-content.
 
 This simple script transforms this simple list of anchors to contents:
 
@@ -71,12 +71,6 @@ Fragment is added to URL if you select a tab.
  
 This jQuery plugin __doesn't style tabs__ (except ``.js-tabcontent[aria-hidden=true]`` of course), styles can be added using other classes.
 
-A demo page is here with full docs and examples: http://a11y.nicolas-hoffmann.net/tabs/ 
-
 It can be included for one, two tab systems or more in a page.
 
 Enjoy.
-
-<img src="http://www.nicolas-hoffmann.net/bordel/chuck-norris1.jpg" alt="Chuck Norris approved this" />
-
-P.S: this plugin is in [MIT license](https://github.com/nico3333fr/jquery-accessible-tabs-aria/blob/master/LICENSE). It couldn't be done without the precious help of @ScreenFeedFr, @sophieschuermans, @goetsu and @romaingervois.
