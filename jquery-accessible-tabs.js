@@ -1,12 +1,9 @@
 /**
  * @file
- * Accessible tab panel system, with jQuery using ARIA.
+ * Accessible tab panel system, with jQuery using ARIA - bootstrap active class ready.
  *
- *         /*
- * jQuery Accessible tab panel system, using ARIA
- * Website: http://a11y.nicolas-hoffmann.net/tabs/
- * License MIT: https://github.com/nico3333fr/jquery-accessible-tabs-aria/blob/master/LICENSE
-* Original source: http://a11y.nicolas-hoffmann.net/tabs .
+ * Website: https://github.com/ec-europa/jquery-accessible-tabs-aria
+ * License MIT: https://github.com/ec-europa/jquery-accessible-tabs-aria/blob/master/LICENSE
  */
 
 jQuery(document).ready(function ($) {
